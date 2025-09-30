@@ -1,5 +1,38 @@
-# Vue 3 + TypeScript + Vite
+# Test task SaaSoft
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<p align="center">
+  <img src="public/image.png" alt="alt text" />
+</p>
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Задание
+
+Необходимо реализовать форму управления учетными записями.
+
+![alt text](public/table.png)
+
+## Стек технологий
+
+- Vue.js 3 + Composition API (фреймворк)
+- TypeScript (язык)
+- Pinia (стейт менеджер)
+- Любой UI фреймворк на выбор.
+
+## Время на выполнения
+
+2 дня
+
+## Запуск приложения
+
+Установка зависемостей
+
+```bash
+yarn install
+```
+
+Запуск
+
+```bash
+yarn run dev
+```
+
+Приложение запуститься на http://localhost:5173/
